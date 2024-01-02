@@ -52,9 +52,10 @@ li a {
 }
 
 .title {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
+  margin-bottom: 0.5rem;
+}
+
+.title h3 {
   margin-bottom: 0.5rem;
 }
 

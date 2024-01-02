@@ -1,6 +1,6 @@
 <template>
-  <span class="badge green" v-if="is_it_over"> Bitti </span>
-  <span class="badge red" v-if="!is_it_over"> Devam Ediyor </span>
+  <span class="badge green" v-if="is_it_over">Bitti</span>
+  <span class="badge red" v-if="!is_it_over">Devam Ediyor</span>
 </template>
 
 <script>
