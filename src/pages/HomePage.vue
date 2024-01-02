@@ -9,10 +9,6 @@
           sunarak, tarihsel bir perspektiften olayları anlama ve değerlendirme
           olanağı sağlamayı amaçlamaktadır.
         </p>
-        <div class="input-control">
-          <input type="text" placeholder="Savaş Ara" />
-          <button class="search-btn">Ara</button>
-        </div>
       </div>
     </section>
     <section id="map">
@@ -30,19 +26,22 @@
           <span>Türkiye</span>
         </div>
         <div class="pin irak">
-          <span>Irak Savaşı</span>
+          <router-link to="/savaslar/9"><span>Irak Savaşı</span></router-link>
         </div>
         <div class="pin azerbeycan-ermenistan">
-          <span>Azerbeycan-Ermenistan Savaşı</span>
+          <router-link to="/savaslar/12"
+            ><span>Azerbeycan-Ermenistan Savaşı</span></router-link
+          >
         </div>
         <div class="pin suriye-ic-savasi">
-          <span>Suriye İç Savaşı</span>
-        </div>
-        <div class="pin abazya">
-          <span>Abazya Savaşı</span>
+          <router-link to="/savaslar/2"
+            ><span>Suriye İç Savaşı</span></router-link
+          >
         </div>
         <div class="pin rusya-cecen">
-          <span>Rusya-Çeçen Savaşı</span>
+          <router-link to="/savaslar/4"
+            ><span>Rusya-Çeçen Savaşı</span></router-link
+          >
         </div>
         <div class="pin ukrayna-rusya">
           <router-link to="/savaslar/1"
@@ -50,34 +49,50 @@
           >
         </div>
         <div class="pin israil-lubnan">
-          <span>İsrail-Lübnan Savaşı</span>
+          <router-link to="/savaslar/16"
+            ><span>İsrail-Lübnan Savaşı</span></router-link
+          >
         </div>
-        <div class="pin gazze-savasi">
-          <span>Gazze Savaşı</span>
+        <div class="pin israil-filistin">
+          <router-link to="/savaslar/10"
+            ><span>İsrail-Filistin Savaşı</span></router-link
+          >
         </div>
         <div class="pin donbass">
-          <span>Donbass Savaşı</span>
+          <router-link to="/savaslar/3"
+            ><span>Donbass Savaşı</span></router-link
+          >
         </div>
         <div class="pin libya-ic-savas">
-          <span>Libya İç Savaşı</span>
+          <router-link to="/savaslar/14"
+            ><span>Libya İç Savaşı</span></router-link
+          >
         </div>
         <div class="pin misir-ic-savasi">
-          <span>Mısır İç Savaşı</span>
+          <router-link to="/savaslar/15"
+            ><span>Kanlı Mısır Savaşı</span></router-link
+          >
         </div>
         <div class="pin korfez">
-          <span>Körfez Savaşı</span>
+          <router-link to="/savaslar/8"><span>Körfez Savaşı</span></router-link>
         </div>
         <div class="pin afganistan-savasi">
-          <span>Afganistan Savaşı</span>
+          <router-link to="/savaslar/7"
+            ><span>Afganistan Savaşı</span></router-link
+          >
         </div>
         <div class="pin bosna-savasi">
-          <span>Bosna Savaşı</span>
+          <router-link to="/savaslar/6"><span>Bosna Savaşı</span></router-link>
         </div>
         <div class="pin kosova-savasi">
-          <span>Kosova Savaşı</span>
+          <router-link to="/savaslar/13"
+            ><span>Kosova Savaşı</span></router-link
+          >
         </div>
         <div class="pin dogu-turkistan">
-          <span>Doğu Türkistan Savaşı</span>
+          <router-link to="/savaslar/11"
+            ><span>Doğu Türkistan Savaşı</span></router-link
+          >
         </div>
       </div>
     </section>
@@ -325,7 +340,7 @@ button:hover {
 }
 
 .korfez {
-  top: 65%;
+  top: 65.5%;
   left: 58%;
 }
 
@@ -347,6 +362,11 @@ button:hover {
 .dogu-turkistan {
   top: 68%;
   left: 80%;
+}
+
+.israil-filistin {
+  top: 61%;
+  left: 50%;
 }
 
 @keyframes pulse {

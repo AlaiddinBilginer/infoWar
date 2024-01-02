@@ -41,6 +41,18 @@ export default {
       });
     },
   },
+  created() {
+    this.loadCountries();
+    this.loadPresidents();
+  },
+  methods: {
+    async loadCountries() {
+      await this.$store.dispatch("countries/loadCountries");
+    },
+    async loadPresidents() {
+      await this.$store.dispatch("countries/loadPresidents");
+    },
+  },
 };
 </script>
 

@@ -41,6 +41,14 @@ export default {
       });
     },
   },
+  created() {
+    this.loadWars();
+  },
+  methods: {
+    async loadWars() {
+      await this.$store.dispatch("wars/loadWars");
+    },
+  },
 };
 </script>
 

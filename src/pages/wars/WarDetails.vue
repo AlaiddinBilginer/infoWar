@@ -71,11 +71,16 @@ export default {
         (country) => country.id === id
       );
     },
+    async loadStatistics() {
+      await this.$store.dispatch("statistics/loadStatistics");
+    },
   },
   created() {
     this.selectedWar = this.$store.getters["wars/wars"].find(
       (war) => war.id === this.id
     );
+
+    this.loadStatistics();
   },
 };
 </script>
