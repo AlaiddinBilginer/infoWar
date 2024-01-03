@@ -22,7 +22,7 @@
     </div>
     <div class="statistic">
       <ul>
-        <war-chart
+        <war-statistics
           v-for="statistic in statistics"
           :key="statistic.id"
           :id="statistic.ic"
@@ -32,18 +32,18 @@
           :childDeath="statistic.child_death"
           :soldierDeath="statistic.soldier_death"
           :totalDeath="totalDeaths"
-        ></war-chart>
+        ></war-statistics>
       </ul>
     </div>
   </section>
 </template>
 
 <script>
-import WarChart from "../../components/wars/WarChart.vue";
+import WarStatistics from "../../components/wars/WarStatistics.vue";
 
 export default {
   components: {
-    WarChart,
+    WarStatistics,
   },
   props: ["id"],
   data() {
@@ -74,6 +74,9 @@ export default {
     async loadStatistics() {
       await this.$store.dispatch("statistics/loadStatistics");
     },
+    async loadCountries() {
+      await this.$store.dispatch("countries/loadCountries");
+    },
   },
   created() {
     this.selectedWar = this.$store.getters["wars/wars"].find(
@@ -81,6 +84,7 @@ export default {
     );
 
     this.loadStatistics();
+    this.loadCountries();
   },
 };
 </script>

@@ -14,9 +14,7 @@
 </template>
 
 <script>
-import BaseBadge from "../ui/BaseBadge.vue";
 export default {
-  components: { BaseBadge },
   props: ["id", "name", "starting_date", "is_it_over", "img"],
   computed: {
     warDetailsLink() {

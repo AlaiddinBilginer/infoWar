@@ -43,10 +43,14 @@ export default {
   },
   created() {
     this.loadWars();
+    this.loadCountries();
   },
   methods: {
     async loadWars() {
       await this.$store.dispatch("wars/loadWars");
+    },
+    async loadCountries() {
+      await this.$store.dispatch("countries/loadCountries");
     },
   },
 };

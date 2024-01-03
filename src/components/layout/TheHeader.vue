@@ -90,15 +90,13 @@ li {
 }
 
 @media screen and (max-width: 670px) {
+  header {
+    height: 10rem;
+  }
   header nav {
     flex-direction: column;
     width: 100%;
   }
-
-  .bottom-line {
-    margin-top: 4rem;
-  }
-
   h1 {
     margin-bottom: 0.75rem;
   }
