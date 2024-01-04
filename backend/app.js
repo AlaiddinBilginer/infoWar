@@ -1,6 +1,6 @@
 const express = require('express');
 const cors = require('cors');
-const connectDB = require('./config/database');
+
 const countryRoutes = require('./routes/countryRoutes');
 const presidentRoutes = require('./routes/presidentRoutes');
 const statisticsRoutes = require('./routes/statisticsRoutes');
@@ -13,7 +13,7 @@ const port = 3000;
 app.use(cors());
 app.use(express.json());
 
-connectDB();
+const connectDB = require('./config/database');
 
 app.use('/', countryRoutes);
 app.use('/', presidentRoutes);

@@ -1,4 +1,5 @@
 const mongoose = require('mongoose');
+const ModelFactory = require('./modelFactory');
 
 const CountrySchema = new mongoose.Schema({
   country_id: String,
@@ -11,6 +12,6 @@ const CountrySchema = new mongoose.Schema({
   country_president_id: String,
 });
 
-const Country = mongoose.model('countries', CountrySchema);
+const Country = ModelFactory.createModel('countries', CountrySchema);
 
 module.exports = Country;
