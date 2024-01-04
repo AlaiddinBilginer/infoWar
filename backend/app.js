@@ -19,7 +19,7 @@ app.use('/', countryRoutes);
 app.use('/', presidentRoutes);
 app.use('/', statisticsRoutes);
 app.use('/', warRoutes);
-app.use('/api', chatRoutes);
+app.use('/', chatRoutes);
 
 app.listen(port, () => {
   console.log(`Server ${port} portunda çalışıyor`);
