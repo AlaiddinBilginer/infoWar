@@ -1,4 +1,5 @@
 const mongoose = require('mongoose');
+const ModelFactory = require('./modelFactory');
 
 const StatisticsSchema = new mongoose.Schema({
   statistics_id: String,
@@ -10,6 +11,6 @@ const StatisticsSchema = new mongoose.Schema({
   statistics_war_id: String,
 });
 
-const Statistics = mongoose.model('statistics', StatisticsSchema);
+const Statistics = ModelFactory.createModel('statistics', StatisticsSchema);
 
 module.exports = Statistics;

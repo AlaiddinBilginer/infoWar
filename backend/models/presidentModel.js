@@ -1,4 +1,5 @@
 const mongoose = require('mongoose');
+const ModelFactory = require('./modelFactory');
 
 const PresidentSchema = new mongoose.Schema({
   president_id: String,
@@ -9,6 +10,6 @@ const PresidentSchema = new mongoose.Schema({
   president_image: String,
 });
 
-const President = mongoose.model('presidents', PresidentSchema);
+const President = ModelFactory.createModel('presidents', PresidentSchema);
 
 module.exports = President;

@@ -1,4 +1,5 @@
 const mongoose = require('mongoose');
+const ModelFactory = require('./modelFactory');
 
 const WarSchema = new mongoose.Schema({
   war_id: String,
@@ -9,6 +10,6 @@ const WarSchema = new mongoose.Schema({
   war_image: String,
 });
 
-const War = mongoose.model('wars', WarSchema);
+const War = ModelFactory.createModel('wars', WarSchema);
 
 module.exports = War;
