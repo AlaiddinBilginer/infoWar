@@ -21,11 +21,6 @@ export default {
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
 
 :root {
-  /* --primary-color: #123446;
-  --secondary-color: #146684;
-  --third-color: #1fa1ce;
-  --dark-color: #120d14;
-  --light-color: #20dad8; */
   --primary-color: #461212;
   --secondary-color: #841414;
   --third-color: #ce1f1f;

@@ -5,7 +5,7 @@
 
 <script>
 export default {
-  props: ["type", "is_it_over"],
+  props: ["is_it_over"],
 };
 </script>
 
