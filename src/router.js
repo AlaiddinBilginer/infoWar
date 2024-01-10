@@ -5,7 +5,7 @@ import CountryDetails from './pages/countries/CountryDetails.vue';
 import WarDetails from './pages/wars/WarDetails.vue';
 import WarsList from './pages/wars/WarsList.vue';
 import HomePage from './pages/HomePage.vue';
-import NotFound from './pages/NotFound.vue';
+import NotFound from './/pages/NotFound.vue';
 
 const router = createRouter({
   history: createWebHistory(),

@@ -50,7 +50,7 @@ export default {
       await this.$store.dispatch("countries/loadCountries");
     },
     async loadPresidents() {
-      await this.$store.dispatch("countries/loadPresidents");
+      await this.$store.dispatch("presidents/loadPresidents");
     },
   },
 };

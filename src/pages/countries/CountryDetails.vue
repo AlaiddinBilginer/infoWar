@@ -68,7 +68,7 @@ export default {
       return this.selectedCountry.presidentId;
     },
     president() {
-      return this.$store.getters["countries/presidents"].find(
+      return this.$store.getters["presidents/getPresidents"].find(
         (president) => president.id === this.presidentId
       );
     },

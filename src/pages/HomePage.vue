@@ -4,7 +4,7 @@
       <div class="content">
         <h2>Savaş İstatistikleri</h2>
         <p>
-          Info War, coğrafi konumu nedeniyle Türkiye'nin çevresindeki bölgelerde
+          InfoWar, coğrafi konumu nedeniyle Türkiye'nin çevresindeki bölgelerde
           meydana gelmiş savaşları istatistiksel verilerle kullanıcılara
           sunarak, tarihsel bir perspektiften olayları anlama ve değerlendirme
           olanağı sağlamayı amaçlamaktadır.
