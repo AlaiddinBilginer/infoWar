@@ -113,6 +113,23 @@
   </div>
 </template>
 
+// <script>
+export default {
+  methods: {
+    async loadWars() {
+      await this.$store.dispatch("wars/loadWars");
+    },
+    async loadCountries() {
+      await this.$store.dispatch("countries/loadCountries");
+    },
+  },
+  created() {
+    this.loadCountries();
+    this.loadWars();
+  },
+};
+</script>
+
 <style scoped>
 #showcase {
   background: url("../../img/showcase.png") no-repeat center center/cover;
