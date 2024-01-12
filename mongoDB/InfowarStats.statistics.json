@@ -1,0 +1,348 @@
+[{
+  "_id": {
+    "$oid": "658cca136a58f824fe697cca"
+  },
+  "statistics_id": 1,
+  "child_death": 1582,
+  "soldier_death": 70000,
+  "adult_death": 27500,
+  "injured": 120000,
+  "statistics_country_id": 1,
+  "statistics_war_id": 1
+},
+{
+  "_id": {
+    "$oid": "658cca136a58f824fe697ccb"
+  },
+  "statistics_id": 2,
+  "child_death": 0,
+  "soldier_death": 158000,
+  "adult_death": 0,
+  "injured": 17748,
+  "statistics_country_id": 2,
+  "statistics_war_id": 1
+},
+{
+  "_id": {
+    "$oid": "658cca136a58f824fe697ccc"
+  },
+  "statistics_id": 3,
+  "child_death": 12000,
+  "soldier_death": 168326,
+  "adult_death": 159774,
+  "injured": 0,
+  "statistics_country_id": 4,
+  "statistics_war_id": 2
+},
+{
+  "_id": {
+    "$oid": "658cca136a58f824fe697ccd"
+  },
+  "statistics_id": 4,
+  "child_death": 124,
+  "soldier_death": 2045,
+  "adult_death": 4253,
+  "injured": 5141,
+  "statistics_country_id": 1,
+  "statistics_war_id": 3
+},
+{
+  "_id": {
+    "$oid": "658cca136a58f824fe697cce"
+  },
+  "statistics_id": 5,
+  "child_death": 0,
+  "soldier_death": 1351,
+  "adult_death": 4169,
+  "injured": 3825,
+  "statistics_country_id": 3,
+  "statistics_war_id": 3
+},
+{
+  "_id": {
+    "$oid": "658cca136a58f824fe697ccf"
+  },
+  "statistics_id": 6,
+  "child_death": 0,
+  "soldier_death": 13000,
+  "adult_death": 0,
+  "injured": 0,
+  "statistics_country_id": 2,
+  "statistics_war_id": 4
+},
+{
+  "_id": {
+    "$oid": "658cca136a58f824fe697cd0"
+  },
+  "statistics_id": 7,
+  "child_death": 0,
+  "soldier_death": 7000,
+  "adult_death": 200000,
+  "injured": 0,
+  "statistics_country_id": 5,
+  "statistics_war_id": 4
+},
+{
+  "_id": {
+    "$oid": "658cca136a58f824fe697cd1"
+  },
+  "statistics_id": 8,
+  "child_death": 0,
+  "soldier_death": 25000,
+  "adult_death": 36644,
+  "injured": 0,
+  "statistics_country_id": 6,
+  "statistics_war_id": 8
+},
+{
+  "_id": {
+    "$oid": "658cca136a58f824fe697cd2"
+  },
+  "statistics_id": 9,
+  "child_death": 0,
+  "soldier_death": 400,
+  "adult_death": 30000,
+  "injured": 75000,
+  "statistics_country_id": 7,
+  "statistics_war_id": 8
+},
+{
+  "_id": {
+    "$oid": "658cca136a58f824fe697cd3"
+  },
+  "statistics_id": 10,
+  "child_death": 3700,
+  "soldier_death": 30521,
+  "adult_death": 312583,
+  "injured": 0,
+  "statistics_country_id": 8,
+  "statistics_war_id": 6
+},
+{
+  "_id": {
+    "$oid": "658cca136a58f824fe697cd4"
+  },
+  "statistics_id": 11,
+  "child_death": 0,
+  "soldier_death": 6000,
+  "adult_death": 2824,
+  "injured": 0,
+  "statistics_country_id": 9,
+  "statistics_war_id": 6
+},
+{
+  "_id": {
+    "$oid": "658cca136a58f824fe697cd5"
+  },
+  "statistics_id": 12,
+  "child_death": 0,
+  "soldier_death": 21173,
+  "adult_death": 4179,
+  "injured": 0,
+  "statistics_country_id": 10,
+  "statistics_war_id": 6
+},
+{
+  "_id": {
+    "$oid": "658cca136a58f824fe697cd6"
+  },
+  "statistics_id": 13,
+  "child_death": 0,
+  "soldier_death": 2448,
+  "adult_death": 1144,
+  "injured": 0,
+  "statistics_country_id": 11,
+  "statistics_war_id": 7
+},
+{
+  "_id": {
+    "$oid": "658cca136a58f824fe697cd7"
+  },
+  "statistics_id": 14,
+  "child_death": 28500,
+  "soldier_death": 66000,
+  "adult_death": 54191,
+  "injured": 0,
+  "statistics_country_id": 12,
+  "statistics_war_id": 7
+},
+{
+  "_id": {
+    "$oid": "658cca136a58f824fe697cd8"
+  },
+  "statistics_id": 15,
+  "child_death": 85000,
+  "soldier_death": 10069,
+  "adult_death": 1000000,
+  "injured": 0,
+  "statistics_country_id": 6,
+  "statistics_war_id": 9
+},
+{
+  "_id": {
+    "$oid": "658cca136a58f824fe697cd9"
+  },
+  "statistics_id": 16,
+  "child_death": 0,
+  "soldier_death": 4679,
+  "adult_death": 0,
+  "injured": 0,
+  "statistics_country_id": 11,
+  "statistics_war_id": 9
+},
+{
+  "_id": {
+    "$oid": "658cca136a58f824fe697cda"
+  },
+  "statistics_id": 17,
+  "child_death": 0,
+  "soldier_death": 2300,
+  "adult_death": 45,
+  "injured": 0,
+  "statistics_country_id": 13,
+  "statistics_war_id": 16
+},
+{
+  "_id": {
+    "$oid": "658cca136a58f824fe697cdb"
+  },
+  "statistics_id": 18,
+  "child_death": 5600,
+  "soldier_death": 500,
+  "adult_death": 1125,
+  "injured": 0,
+  "statistics_country_id": 14,
+  "statistics_war_id": 16
+},
+{
+  "_id": {
+    "$oid": "658cca136a58f824fe697cdc"
+  },
+  "statistics_id": 19,
+  "child_death": 500000,
+  "soldier_death": 2000,
+  "adult_death": 2035350,
+  "injured": 0,
+  "statistics_country_id": 15,
+  "statistics_war_id": 11
+},
+{
+  "_id": {
+    "$oid": "658cca136a58f824fe697cdd"
+  },
+  "statistics_id": 20,
+  "child_death": 0,
+  "soldier_death": 0,
+  "adult_death": 0,
+  "injured": 0,
+  "statistics_country_id": 16,
+  "statistics_war_id": 11
+},
+{
+  "_id": {
+    "$oid": "658cca136a58f824fe697cde"
+  },
+  "statistics_id": 21,
+  "child_death": 0,
+  "soldier_death": 7701,
+  "adult_death": 1400,
+  "injured": 5132,
+  "statistics_country_id": 13,
+  "statistics_war_id": 10
+},
+{
+  "_id": {
+    "$oid": "658cca136a58f824fe697cdf"
+  },
+  "statistics_id": 22,
+  "child_death": 8000,
+  "soldier_death": 25602,
+  "adult_death": 56591,
+  "injured": 49645,
+  "statistics_country_id": 17,
+  "statistics_war_id": 10
+},
+{
+  "_id": {
+    "$oid": "658cca136a58f824fe697ce0"
+  },
+  "statistics_id": 23,
+  "child_death": 813,
+  "soldier_death": 2906,
+  "adult_death": 1726,
+  "injured": 0,
+  "statistics_country_id": 18,
+  "statistics_war_id": 12
+},
+{
+  "_id": {
+    "$oid": "658cca136a58f824fe697ce1"
+  },
+  "statistics_id": 24,
+  "child_death": 421,
+  "soldier_death": 3825,
+  "adult_death": 1215,
+  "injured": 0,
+  "statistics_country_id": 19,
+  "statistics_war_id": 12
+},
+{
+  "_id": {
+    "$oid": "658cca136a58f824fe697ce2"
+  },
+  "statistics_id": 25,
+  "child_death": 0,
+  "soldier_death": 2523,
+  "adult_death": 3453,
+  "injured": 0,
+  "statistics_country_id": 22,
+  "statistics_war_id": 13
+},
+{
+  "_id": {
+    "$oid": "658cca136a58f824fe697ce3"
+  },
+  "statistics_id": 26,
+  "child_death": 362,
+  "soldier_death": 4253,
+  "adult_death": 5367,
+  "injured": 0,
+  "statistics_country_id": 8,
+  "statistics_war_id": 13
+},
+{
+  "_id": {
+    "$oid": "658cca136a58f824fe697ce4"
+  },
+  "statistics_id": 27,
+  "child_death": 1008,
+  "soldier_death": 6486,
+  "adult_death": 27619,
+  "injured": 0,
+  "statistics_country_id": 20,
+  "statistics_war_id": 14
+},
+{
+  "_id": {
+    "$oid": "658cca136a58f824fe697ce5"
+  },
+  "statistics_id": 28,
+  "child_death": 3342,
+  "soldier_death": 2000,
+  "adult_death": 2200,
+  "injured": 0,
+  "statistics_country_id": 21,
+  "statistics_war_id": 15
+},
+{
+  "_id": {
+    "$oid": "658cca136a58f824fe697ce6"
+  },
+  "statistics_id": 29,
+  "child_death": 0,
+  "soldier_death": 220,
+  "adult_death": 0,
+  "injured": 0,
+  "statistics_country_id": 13,
+  "statistics_war_id": 15
+}]

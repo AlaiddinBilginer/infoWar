@@ -1,0 +1,242 @@
+[{
+  "_id": {
+    "$oid": "658cca0e6a58f824fe697cb3"
+  },
+  "president_id": "1",
+  "first_name": "Volodimir ",
+  "last_name": "Zelenski",
+  "age": 45,
+  "president_info": "Volodimir Zelenski, Ukrayna'nın Krivoi Rog şehrinde 25 Ocak 1978'de doğdu. Komedyen ve televizyon yapımcısı olarak öne çıktı ve \"Servant of the People\" adlı televizyon dizisinde başrol oynadı. 2019'da siyasi deneyimi olmamasına rağmen Ukrayna devlet başkanı seçildi ve ülkenin en genç devlet başkanlarından biri oldu. Zelenski'nin liderliği sırasında yolsuzlukla mücadele ve iç politika reformlarına odaklanarak dikkat çekti. Aynı zamanda, uluslararası alanda Rusya ile yaşanan gerilimler ve Kırım'ın ilhakı gibi önemli sorunlarla mücadele etti.",
+  "president_image": "https://i.hizliresim.com/k2gdmat.jpg"
+},
+{
+  "_id": {
+    "$oid": "658cca0e6a58f824fe697cb4"
+  },
+  "president_id": "2",
+  "first_name": "Vladimir",
+  "last_name": "Putin",
+  "age": 71,
+  "president_info": "Vladimir Putin, 7 Ekim 1952'de Leningrad'da doğdu ve eski bir KGB ajanı olarak Sovyetler Birliği'nin çöküşünden sonra siyasete atıldı. 1999'da Rusya'nın başkanı olarak seçilen Putin, ülkesini 2000-2008 yılları arasında yönetti ve daha sonra başbakanlık görevine geçti. 2012'de tekrar başkanlık makamına dönerek, Rusya'nın iç ve dış politikasını şekillendiren güçlü bir lider olarak kalıcı bir etki bıraktı. Putin'in liderliği, otoriter bir yönetim tarzıyla ve uluslararası alanda aldığı kararlarla dikkat çekerken, aynı zamanda içerideki eleştirilere de maruz kaldı. Enerji politikaları, Kırım'ın ilhakı ve Suriye'deki müdahalesi gibi konularda attığı adımlar, Putin'in liderliği altındaki Rusya'nın karmaşık ve çeşitli bir dönemden geçtiğini göstermektedir.",
+  "president_image": "https://i.hizliresim.com/rjvzlu0.jpg"
+},
+{
+  "_id": {
+    "$oid": "658cca0e6a58f824fe697cb5"
+  },
+  "president_id": "3",
+  "first_name": "Denis Vladimiroviç",
+  "last_name": "Puşilin ",
+  "age": 43,
+  "president_info": "Denis Vladimiroviç Puşilin, 27 Şubat 1981'de Rusya'da doğdu. Donetsk Halk Cumhuriyeti'nin lideri olarak bilinen Puşilin, bölgedeki ayrılıkçı hareketin önemli isimlerinden biridir. Donetsk Halk Cumhuriyeti, 2014 yılında Ukrayna'dan ayrılıkçı güçler tarafından ilan edilen bir bağımsızlık ilanıdır ve Puşilin, bu süreçte etkili bir rol oynadı. Puşilin, Donetsk Halk Cumhuriyeti'nin başkanı olarak görev yapmaktadır ve bölgesel yönetimi liderlik ederek, Rusya ile yakın ilişkileri sürdürmekte ve bağımsızlık iddialarını desteklemektedir. Ancak, uluslararası alanda bu ayrılıkçı lider ve Donetsk Halk Cumhuriyeti, Ukrayna hükümeti ve birçok ülke tarafından tanınmamaktadır. Puşilin'in liderliği altında, Donetsk bölgesi ve Ukrayna ile Rusya arasındaki ilişkilerde gerginlik ve sorunlar devam etmektedir.",
+  "president_image": "https://i.hizliresim.com/i5inm6l.jpg"
+},
+{
+  "_id": {
+    "$oid": "658cca0e6a58f824fe697cb6"
+  },
+  "president_id": "4",
+  "first_name": "Beşşar ",
+  "last_name": "Essad",
+  "age": 58,
+  "president_info": "Beşşar Esad, 11 Eylül 1965'te Şam, Suriye'de doğdu. Hafız Esad'ın oğlu olarak, 2000 yılında babasının ölümünden sonra Suriye'nin devlet başkanı oldu. Esad, başkanlık görevine geldiğinde genç ve eğitimli bir lider olarak dikkat çekti, ancak zamanla ülkesindeki otoriter yönetimi ve insan hakları ihlalleri nedeniyle eleştirildi. Suriye'deki iç savaşın patlak vermesiyle birlikte, Esad rejimi büyük bir uluslararası tepkiyle karşılaştı ve birçok ülke tarafından kınandı. Esad, Rusya ve İran gibi müttefiklerin desteğiyle iktidarda kalmayı başardı, ancak Suriye'deki iç savaş devam ettiği sürece ülkesi büyük bir insani krizle karşı karşıya kaldı. Esad'ın liderliği altında, Suriye'de yaşanan karmaşık ve zorlu dönem, uluslararası ilişkilerde önemli bir odak noktası haline geldi.",
+  "president_image": "https://i.hizliresim.com/k3y5xff.jpg"
+},
+{
+  "_id": {
+    "$oid": "658cca0e6a58f824fe697cb7"
+  },
+  "president_id": "5",
+  "first_name": "Ramazan",
+  "last_name": "Kadirov",
+  "age": 47,
+  "president_info": "Ramazan Kadirov, 5 Ekim 1976'da Çeçenistan, Rusya'da doğdu. Kadirov, eski Çeçen lider Ahmet Kadirov'un oğlu olup, babasının suikaste uğramasının ardından Çeçenistan'ın liderliğini devraldı. Kadirov, 2007'de Rusya tarafından atanan Çeçenistan Cumhuriyeti Başkanı olarak göreve başladı ve bu pozisyonda devam etmektedir. Çeçen lider, sık sık otoriter liderlik tarzı, insan hakları ihlalleri ve muhalefeti bastırma konularında eleştirilmektedir. Kadirov, Rusya'nın güçlü destekçisi olarak bilinmekte ve Vladimir Putin'in yakın bir müttefiki olarak öne çıkmaktadır. Aynı zamanda, Kadirov'un liderliği altında Çeçenistan'da altyapı projeleri ve ekonomik kalkınma çabaları gibi alanlarda da çeşitli girişimler gerçekleştirilmiştir. Kadirov'un liderliği, hem Rusya içinde hem de uluslararası alanda dikkat çeken bir konu olmuştur, zira insan hakları ihlalleri ve otoriter yönetim tarzı, onun yönetimi altındaki Çeçenistan'ın gündemini şekillendirmiştir.",
+  "president_image": "https://i.hizliresim.com/8f84z3d.jpg"
+},
+{
+  "_id": {
+    "$oid": "658cca0e6a58f824fe697cb8"
+  },
+  "president_id": "6",
+  "first_name": "Abdüllatif",
+  "last_name": "Şerif",
+  "age": 79,
+  "president_info": "Irak Cumhuriyeti'nin 9. Cumhurbaşkanı Abdüllatif Reşid'dir. Görevine 13 Ekim 2022 tarihinde başlamıştır. Irak Cumhurbaşkanı, anayasaya bağlılığı ve Irak'ın bağımsızlığını, egemenliğini, birliğini, topraklarının anayasanın hükümlerine uygun olarak korunmasını garanti eder. Görev süresi dört yıllık dönem ile sınırlıdır. 2000'lerin ortalarından bu yana cumhurbaşkanlığı, Ekim 2005'te kabul edilen anayasaya göre ülke içinde önemli bir güce sahip olmadığı için büyük ölçüde sembolik bir makamdır.",
+  "president_image": "https://i.hizliresim.com/o7avo07.jpg"
+},
+{
+  "_id": {
+    "$oid": "658cca0e6a58f824fe697cb9"
+  },
+  "president_id": "7",
+  "first_name": "Jens",
+  "last_name": "Stoltenberg",
+  "age": 64,
+  "president_info": "Jens Stoltenberg, 16 Mart 1959'da Norveç'in Oslo şehrinde doğdu. Norveçli siyasetçi ve diplomat olan Stoltenberg, Norveç'in başbakanlığını üç dönem boyunca sürdürdü. İlk olarak 2000-2001 yılları arasında ve daha sonra 2005-2013 yılları arasında başbakanlık görevini üstlendi. Stoltenberg, Norveç Sosyal Demokrat İşçi Partisi'nin bir üyesidir. Ayrıca, 2014 yılında NATO Genel Sekreteri olarak atanarak dünya çapında önemli bir liderlik pozisyonuna getirilmiştir. Jens Stoltenberg, NATO lideri olarak ittifakın savunma politikalarını yönlendirme ve uluslararası ilişkilerde önemli bir rol oynama sorumluluğunu taşımaktadır.",
+  "president_image": "https://i.hizliresim.com/9btuexe.jpg"
+},
+{
+  "_id": {
+    "$oid": "658cca0e6a58f824fe697cba"
+  },
+  "president_id": "8",
+  "first_name": "Zeljko",
+  "last_name": "Komšić",
+  "age": 59,
+  "president_info": "Zeljko Komšić, 20 Ocak 1964'te Bosna-Hersek'in başkenti Saraybosna'da doğdu. Bosna-Hersekli siyasetçi olan Komšić, ülkenin başkanlık konseyinde Hırvat üye olarak görev yapmaktadır. İlk olarak 2006 yılında Bosna-Hersek Başkanlığı'na seçilen Komšić, bu görevi 2018'e kadar sürdürdü. Komšić, Bosna-Hersek'teki etnik Hırvat topluluğunu temsil ederek ülkenin karmaşık etnik yapısında önemli bir role sahiptir. Siyasi kariyerinden önce, savaş öncesinde gazetecilik ve sivil toplum faaliyetleriyle ilgilenmiş ve 1990'lı yılların başında bağımsızlık mücadelesine katılmıştır. Komšić, Bosna-Hersek'teki siyasi arenada, özellikle etnik gruplar arasında denge sağlama amacıyla yaptığı çalışmalarla dikkat çekmektedir.",
+  "president_image": "https://i.hizliresim.com/nj81e37.jpg"
+},
+{
+  "_id": {
+    "$oid": "658cca0e6a58f824fe697cbb"
+  },
+  "president_id": "9",
+  "first_name": "Zoran",
+  "last_name": "Milanović",
+  "age": 57,
+  "president_info": "Zoran Milanović, 30 Ekim 1966'da Zagreb, Hırvatistan'da doğdu. Hırvat siyasetçi olan Milanović, Hırvatistan'ın eski başbakanı ve 2020 yılında Hırvatistan Cumhurbaşkanı olarak göreve başlayan bir liderdir. Hırvatistan Sosyal Demokrat Partisi'nin (SDP) bir üyesi olarak siyasi kariyerine başlayan Milanović, 2011-2016 yılları arasında Hırvatistan'ın başbakanlığını üstlendi. Milanović, Hırvatistan'ın AB üyeliği sürecini yönetirken, ekonomik reformları desteklemiş ve Hırvatistan'ın uluslararası alandaki yerini güçlendirmeye çalışmıştır. 2020 yılında Hırvatistan Cumhurbaşkanı olarak seçilen Milanović, ülkenin devlet başkanlığı görevini sürdürmektedir ve siyasi kariyeri boyunca hem ulusal hem de uluslararası düzeyde önemli bir figür haline gelmiştir.",
+  "president_image": "https://i.hizliresim.com/9i797uz.jpg"
+},
+{
+  "_id": {
+    "$oid": "658cca0e6a58f824fe697cbc"
+  },
+  "president_id": "10",
+  "first_name": "Aleksandar",
+  "last_name": "Vučić",
+  "age": 53,
+  "president_info": "Aleksandar Vučić, 5 Mart 1970'te Belgrad, Yugoslavya'da doğdu. Sırp siyasetçi olarak bilinen Vučić, Sırbistan'ın devlet başkanı olarak görev yapmaktadır. Vučić, Sırp hükümetinde çeşitli önemli görevler üstlenmiş ve siyasi kariyerine Sırp Radikal Partisi'nde başlamıştır. Ancak, daha sonra Sırp İlerleme Partisi'ni (SNS) kurarak, Sırp siyasetinde önemli bir rol oynamıştır. Vučić, 2014 yılında Sırbistan Başbakanı olarak göreve başlamış ve daha sonra 2017 yılında devlet başkanlığına seçilmiştir. Liderliği sırasında, Sırbistan'ın ekonomik reformları, AB ile ilişkileri güçlendirme çabaları ve bölgesel istikrar konularında çeşitli adımlar atmıştır. Ancak, Vučić'in yönetimi eleştiriyle karşılanmış, basın özgürlüğü konusundaki endişeler ve demokratik kurumların güçlendirilmesi talepleri gündeme gelmiştir. Sırp siyasetçi, güçlü liderlik tarzı ve uluslararası arenada etkili bir figür olarak tanınmaktadır.",
+  "president_image": "https://i.hizliresim.com/nfju1tj.jpg"
+},
+{
+  "_id": {
+    "$oid": "658cca0e6a58f824fe697cbd"
+  },
+  "president_id": "11",
+  "first_name": "Joe",
+  "last_name": "Biden",
+  "age": 81,
+  "president_info": "Joe Biden, 20 Kasım 1942'de Pensilvanya'da doğdu. Amerikalı siyasetçi ve Demokrat Parti üyesi olan Biden, 2021 itibariyle Amerika Birleşik Devletleri'nin 46. Başkanıdır. Biden, 2009-2017 yılları arasında Amerika Birleşik Devletleri Başkan Yardımcısı olarak görev yaptı ve bu süreçte Barack Obama'nın yönetiminde önemli bir rol oynadı. 2020 Amerika Birleşik Devletleri başkanlık seçimlerinde Demokrat Parti'nin adayı olarak seçilen Biden, Donald Trump'a karşı zafer elde ederek başkanlık koltuğuna oturdu. Biden'ın başkanlık dönemi, COVID-19 pandemisiyle mücadele, iklim değişikliği ile ilgili çabalar, ekonomik iyileştirme ve sosyal reformlar gibi çeşitli konularda odaklanmaktadır. Biden, uzun süren siyasi kariyeri boyunca iç ve dış politika alanında önemli kararlara imza atmış ve Amerikan siyasetinde etkili bir figür haline gelmiştir.",
+  "president_image": "https://i.hizliresim.com/oi73idt.jpg"
+},
+{
+  "_id": {
+    "$oid": "658cca0e6a58f824fe697cbe"
+  },
+  "president_id": "12",
+  "first_name": "Muhammed Hasan",
+  "last_name": "Ahund",
+  "age": 75,
+  "president_info": "Muhammed Hasan Ahund, Afgan molla ve politikacıdır. 7 Eylül 2021 - 17 Mayıs 2023 tarihleri arasında Afganistan'ın başbakan vekili olarak görev yapmıştır. Ahund, Taliban'ın dört kurucu üyesinden biri ve hareketin kıdemli lider üyelerinden biridir. İlk Taliban hükümetinde (1996-2001) Ahund, Afganistan dışişleri bakanı ve başbakan yardımcısı olarak görev yapmıştır. Ahund, Taliban'ın askeri tarafının aksine dini tarafında daha etkilidir.",
+  "president_image": "https://i.hizliresim.com/hni50wu.png"
+},
+{
+  "_id": {
+    "$oid": "658cca0e6a58f824fe697cbf"
+  },
+  "president_id": "13",
+  "first_name": "Yitzhak",
+  "last_name": "Herzog",
+  "age": 63,
+  "president_info": "Yitzhak Herzog, 22 Eylül 1960 tarihinde İsrail'in Tel Aviv şehrinde doğdu. İsrailli siyasetçi ve avukat olan Herzog, İsrail'in siyasi arenasında önemli bir figürdür. Babası Haim Herzog, İsrail'in altıncı cumhurbaşkanıydı. Yitzhak Herzog, İsrail İşçi Partisi'nin bir üyesidir ve siyasi kariyerine 2003 yılında başlamıştır.\nHerzog, 2003-2018 yılları arasında İsrail Parlamentosu olan Knesset'te milletvekili olarak görev yaptı. Ayrıca, İsrail İşçi Partisi'nin liderliğini üstlendi ve 2013-2018 yılları arasında parti başkanlığı görevini sürdürdü. Ayrıca, 2015 İsrail genel seçimlerinde İsrail İşçi Partisi'nin lideri olarak başbakanlık için yarıştı.\nHerzog, aynı zamanda İsrail'in 11. cumhurbaşkanı olarak seçilmiş ve 2021'de bu göreve başlamıştır. Herzog, siyasi kariyeri boyunca İsrail'in iç ve dış politikası üzerinde etkili bir rol oynamış ve ülkesinin çeşitli konulardaki gelişimine katkıda bulunmuştur.",
+  "president_image": "https://i.hizliresim.com/bjhltaq.jpg"
+},
+{
+  "_id": {
+    "$oid": "658cca0e6a58f824fe697cc0"
+  },
+  "president_id": "14",
+  "first_name": "Necip",
+  "last_name": "Mikati",
+  "age": 68,
+  "president_info": "Necip Azmi Mikati (d. 24 Kasım 1955), Lübnanlı politikacı ve iş insanı. 2005 ve 2011-2014 yılları arasında iki kez Lübnan Başbakanı olarak görev yaptı. 10 Eylül 2021 tarihinde 3. kez Lübnan Başbakanı oldu. Nisan 2005 ile Temmuz 2005 yılları arasında Lübnan geçici hükûmetinin Başbakanı oldu. 25 Ocak 2011 tarihinde Mikati, Kasım 2009'da kurulan geçici Lübnan hükûmetinin 12 Ocak 2011'de düşmesinden sonra parlamentoda yapılan görüşmeler sonucunda oy çokluğu ile Başbakanlığa aday gösterildi. Hükûmet gecikmelerden sonra Haziran ayında kuruldu.",
+  "president_image": "https://i.hizliresim.com/lr4pz65.jpg"
+},
+{
+  "_id": {
+    "$oid": "658cca0e6a58f824fe697cc1"
+  },
+  "president_id": "15",
+  "first_name": "Gulam Osman",
+  "last_name": "Yağma",
+  "age": 67,
+  "president_info": "Gulam Osman Yağma (16 Ağustos 1956) Kanadalı bir Uygur politikacı, bağımsızlık lideri, yazar, şair ve Sürgündeki Doğu Türkistan Hükümeti'nin başkanıdır.",
+  "president_image": "https://i.hizliresim.com/liclkwd.png"
+},
+{
+  "_id": {
+    "$oid": "658cca0e6a58f824fe697cc2"
+  },
+  "president_id": "16",
+  "first_name": "Xi",
+  "last_name": "Jinping",
+  "age": 70,
+  "president_info": "Xi Jinping, 15 Haziran 1953 tarihinde Çin'in Pekin şehrinde doğdu. Çinli siyasetçi ve devlet adamı olan Xi, Çin Komünist Partisi'nin (ÇKP) genel sekreteri ve Çin Devlet Başkanı olarak görev yapmaktadır. Xi Jinping, 2013 yılında Çin Devlet Başkanlığına seçilmiş ve aynı yıl Çin Komünist Partisi Genel Sekreteri olarak atanmıştır. Ayrıca, Çin'in merkezî lideri olarak görev yapan Xi, ülkesinin iç ve dış politikasını belirleyen önemli bir figürdür.\nXi Jinping'in liderliği altında Çin, ekonomik reformlar, teknolojik gelişmeler ve küresel ilişkilerdeki etkisi ile dikkat çekmiştir. Ayrıca, Xi, devlet başkanlığı sırasında Çin'de yolsuzlukla mücadele kampanyası başlatmış ve ideolojik kontrolleri sıkılaştırmıştır. Xi Jinping'in Çin'in lideri olarak güçlü bir liderlik tarzı ve ulusal güvenlik politikalarındaki sert duruşu, hem içerde hem de uluslararası alanda geniş bir yankı uyandırmıştır.",
+  "president_image": "https://i.hizliresim.com/95n3nv5.jpg"
+},
+{
+  "_id": {
+    "$oid": "658cca0e6a58f824fe697cc3"
+  },
+  "president_id": "17",
+  "first_name": "Mahmud",
+  "last_name": "Abbas",
+  "age": 88,
+  "president_info": "Mahmud Abbas, 26 Mart 1935 tarihinde Filistin'in Safed şehrinde doğdu. Filistinli siyasetçi olan Abbas, Filistin Kurtuluş Örgütü'nün (FKÖ) ve Filistin Ulusal Yönetimi'nin (FYY) önde gelen isimlerinden biridir. 2005 yılında Filistin Devlet Başkanlığı görevine seçilen Abbas, bu görevi halen sürdürmektedir.\nAbbas, uzun yıllar boyunca FKÖ içinde çeşitli görevlerde bulundu ve 2004 yılında Filistin Devlet Başkanı Yaser Arafat'ın ölümünden sonra devlet başkanlığına seçildi. Abbas, FKÖ'nün başkanlığını da üstlenmiş ve bu görevlerde Filistin'in ulusal çıkarlarını savunmaya çalışmıştır. Filistin-İsrail barış sürecinde önemli rol oynamış ve iki devletli çözümü desteklemiştir. Ancak, bölgesel sorunlar, Filistin topraklarındaki siyasi bölünmüşlük ve İsrail ile yaşanan gerginlikler Abbas'ın liderliği altında çeşitli zorlukları beraberinde getirmiştir.",
+  "president_image": "https://i.hizliresim.com/axqokr4.jpg"
+},
+{
+  "_id": {
+    "$oid": "658cca0e6a58f824fe697cc4"
+  },
+  "president_id": "18",
+  "first_name": "Ilham",
+  "last_name": "Aliyev",
+  "age": 62,
+  "president_info": "İlham Aliyev, 24 Aralık 1961 tarihinde Azerbaycan'ın başkenti Bakü'de dünyaya geldi. Azerbaycanlı siyasetçi olan Aliyev, 2003 yılında devlet başkanlığına seçilerek ülkesinin başkanlık koltuğuna oturdu. Babası Haydar Aliyev'in izinden giderek siyasi kariyerine devam etti ve onun liderliği altında edindiği deneyimleri kullanarak Azerbaycan'ın yönetimine geçti. İlham Aliyev'in liderliğinde Azerbaycan, ekonomik büyüme, enerji projeleri ve bölgesel politikada etkili bir aktör olma çabalarıyla ön plana çıktı. Ancak, Aliyev yönetimi, demokratik reformlara yönelik eleştiriler ve insan hakları ihlalleriyle ilgili uluslararası eleştirilere maruz kaldı. Dağlık Karabağ meselesi ve Ermenistan ile olan ilişkiler, Aliyev'in liderliği altında Azerbaycan'ın gündemini belirleyen önemli konular arasında yer almaktadır.",
+  "president_image": "https://i.hizliresim.com/kezkpul.jpg"
+},
+{
+  "_id": {
+    "$oid": "658cca0e6a58f824fe697cc5"
+  },
+  "president_id": "19",
+  "first_name": "Vahagn Garniki",
+  "last_name": "Haçaturyan",
+  "age": 64,
+  "president_info": "Vahagn Garniki Haçaturyan, 26 Temmuz 1959 doğumlu bir Ermeni politikacıdır. 13 Mart 2022 tarihinde Ermenistan'ın 5. Cumhurbaşkanı olarak göreve başlamıştır. Daha önce 1992'den 1996'ya kadar Erivan Belediye Başkanı ve 2021-2022 yılları arasında Yüksek Teknoloji Sanayi Bakanı olarak görev yapmıştır. 2013 Yerevan Belediye Meclisi seçimlerinde Ermeni Ulusal Kongresi listesinin başında yer almış ve 2017'deki istifasına kadar bu kongrenin üyesi olmuştur. Şu anda bağımsız bir politikacıdır.",
+  "president_image": "https://i.hizliresim.com/ez9jgnd.jpg"
+},
+{
+  "_id": {
+    "$oid": "658cca0e6a58f824fe697cc6"
+  },
+  "president_id": "20",
+  "first_name": "Muhammed Yunus",
+  "last_name": "el-Menfi",
+  "age": 47,
+  "president_info": "Muhammed Yunus el-Menfi, 3 Mart 1976 doğumlu bir Libyalı diplomat ve politikacıdır. 5 Şubat 2021'de Libya Siyasi Diyalog Forumu'nda Libya Başkanlık Konseyi'nin başkanı seçilmiştir. Daha önce Libya'nın Yunanistan Büyükelçisi olarak görev yapmıştır. Mnifa kabilesinin Mourabiteen soyundan gelen Menfi, Libya ve Fransa'da mühendislik okumuştur. 2011 yılında siyasete adım atan Menfi, devrimden sonra Libya'nın ilk parlamentosu olan Genel Ulusal Kongre'de konut ve kamu hizmetleri komitesi başkanı oldu.",
+  "president_image": "https://i.hizliresim.com/3nhw834.jpg"
+},
+{
+  "_id": {
+    "$oid": "658cca0e6a58f824fe697cc7"
+  },
+  "president_id": "21",
+  "first_name": "Abdülfettah",
+  "last_name": "es-Sisi",
+  "age": 69,
+  "president_info": "Abdülfettah es-Sisi, 19 Kasım 1954 tarihinde Mısır'ın Kahire kentinde doğdu. Mısırlı asker ve siyasetçi olan es-Sisi, ülkesinin 2013 yılında yaşanan askeri darbenin ardından devlet başkanlığına gelmiştir. Mısır Silahlı Kuvvetleri'nin komutanı olarak görev yaptığı sırada, 2013 yılında Muhammed Mursi'nin devrilmesiyle es-Sisi, Mısır'ın başkanlık koltuğuna oturdu. Abdülfettah es-Sisi'nin liderliği altında Mısır, iç politikada güvenlik tedbirleri, ekonomik reformlar ve altyapı projeleri gibi alanlarda çeşitli adımlar atmıştır. Ancak, es-Sisi yönetimi, insan hakları ihlalleri, muhalefetin baskı altında tutulması ve basın özgürlüğü konularında eleştirilere maruz kalmıştır. Ayrıca, Mısır'ın içinde bulunduğu bölgesel sorunlar, Sina Yarımadası'ndaki güvenlik tehditleri ve Mısır'ın dış ilişkileri, es-Sisi'nin liderliği altında önemli konular olmuştur.",
+  "president_image": "https://i.hizliresim.com/ebj4nb9.jpg"
+},
+{
+  "_id": {
+    "$oid": "658cca0e6a58f824fe697cc8"
+  },
+  "president_id": "22",
+  "first_name": "Vjosa",
+  "last_name": "Osmani",
+  "age": 41,
+  "president_info": "Vjosa Osmani, 17 Mayıs 1982'de Kosova'nın Priştine şehrinde doğdu. Kosovalı siyasetçi ve hukukçu olan Osmani, Kosova Cumhuriyeti'nin devlet başkanı olarak görev yapmaktadır. Eğitimini Priştine Üniversitesi Hukuk Fakültesi'nde tamamlayan Osmani, ardından Harvard Üniversitesi'nde hukuk alanında yüksek lisans eğitimini tamamladı. Vjosa Osmani, siyasi kariyerine Kosova Meclisi'nde başladı ve ardından 2019 yılında Meclis Başkanlığı'na seçildi. 2020 yılında Kosova Cumhuriyeti devlet başkanlığı seçimlerinde bağımsız aday olarak yarışa katıldı ve seçimi kazanarak ülkenin devlet başkanı oldu. Osmani, Kosova'nın genç ve dinamik bir lideri olarak dikkat çekmekte olup, ülkenin iç ve dış politikasında etkili bir rol oynamaktadır.",
+  "president_image": "https://i.hizliresim.com/b5nfsj5.jpg"
+}]
