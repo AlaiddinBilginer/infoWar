@@ -5,13 +5,16 @@
       <component :is="slotProps.Component"></component>
     </transition>
   </router-view>
+  <Chat />
 </template>
 
 <script>
 import TheHeader from "./components/layout/TheHeader.vue";
+import Chat from "./components/ChatBot";
 
 export default {
   components: {
+    Chat,
     TheHeader,
   },
 };
